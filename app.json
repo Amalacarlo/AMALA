@@ -1,9 +1,10 @@
+
 {
-    "name": "Pikachu",
-    "description": "Pikachu - Whatsapp Bot",
-    "logo": "https://i.imgur.com/W0i7oMY.jpeg",
+    "name": "AMALA",
+    "description": "AMALA - Whatsapp Bot",
+    "logo": "amala.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/ameer-kallumthodi/pikachu",
+    "repository": "https://github.com/Amalacarlo/pikachu",
     "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
@@ -61,7 +62,7 @@
             "required": true,
             "value": "^[.!;]"
         },
-        "OWNER_NAME": {
+        "OWNER_NAME": {~ATHILDEV~
             "description": "reply for .owner ! give your details, Use => default, to change back.",
             "required": false,
             "value": "default"
